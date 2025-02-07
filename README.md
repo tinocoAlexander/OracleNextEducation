@@ -1,2 +1,2 @@
 # OracleNextEducation
-All my projects from my education on OracleNextEducation
+All my projects from my education on OracleNextEducation are here
