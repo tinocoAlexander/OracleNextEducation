@@ -16,7 +16,7 @@ I am a student at OracleNextEducation, and this repository reflects my learning 
 To clone the repository and start exploring the projects, follow these steps:
 
 ```bash
-  git clone https://github.com/your-username/OracleNextEducation.git
+  git clone https://github.com/tinocoAlexander/OracleNextEducation.git
   cd OracleNextEducation
 ```
 
